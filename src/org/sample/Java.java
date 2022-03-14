@@ -5,6 +5,7 @@ public class Java {
 	private Java() {
 
 	System.out.println("sigle ton");
+	System.out.println("jebas");
 	}
 	
 	private static Java student() {
